@@ -12,3 +12,16 @@ The proposed Op-Amp is based on the **gpdk 180nm** process and is simulated usin
 - **Design Environment**: Cadence Virtuoso
 
 This low-power, high-gain amplifier is tailored for applications requiring low energy consumption, such as biomedical devices.
+
+
+#### Circuit :
+![circuit](https://github.com/user-attachments/assets/e1802a5e-9ac0-4501-9904-ce3b87b64818)
+
+#### Circuit on cadence :
+![circuit_on_cadence](https://github.com/user-attachments/assets/0c6f0f9b-b0cc-4981-8363-26d8cbf48e7b)
+
+#### Gain
+![gain](https://github.com/user-attachments/assets/713232f8-e7e7-4eca-8423-3b712c923234)
+
+gain = 20 log(150)
+     = 43.5 db 
